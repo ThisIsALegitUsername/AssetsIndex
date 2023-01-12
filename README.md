@@ -1,2 +1,2 @@
 # AssetsIndex
-Assets Index for Minecraft 1.8
+This repository is used to store minecraft 1.8's asset index for easy access.
