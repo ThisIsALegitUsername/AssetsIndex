@@ -1,5 +1,6 @@
 # AssetsIndex
-This repository is used to store minecraft 1.8's asset index for easy access. This is for personal use, feel free to take my scripts and change a few var names.
+This repository is used to store minecraft 1.8's asset index for easy access. This is for personal use, feel free to take my scripts.
+For linux only.
 
 
 ## Seperate folder
